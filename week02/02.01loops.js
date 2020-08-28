@@ -40,7 +40,7 @@ for(let i = 0; i < alphabet.length; i++){
 
 // GOLD
 
-/* let arr = [];
+let arr = [];
 
 for(let i = 0; i < alphabet.length; i++){
     if (i % 2 == 0) {
@@ -49,7 +49,7 @@ for(let i = 0; i < alphabet.length; i++){
     }  else {
         console.log(`the index ${i} is an odd number.`)
     }
-} */
+}
 
 /* let arr = [];
 
